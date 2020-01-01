@@ -7,5 +7,5 @@ Deze code is gebruikt in een vliegtuig model: [link naar Youtube video](https://
 
 In het totaal zijn er 14 lichtfuncties apart aan te sturen.
 
-#Code voor dit project is nog in ontwikkeling !!
+# Code voor dit project is nog in ontwikkeling !!
 De code welke er nu in staat is vooral als een demo om te laten zien welke lichtfuncties er allemaal zijn. Later nog aanpassen voor bediening op afstand.
